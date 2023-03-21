@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 def mydatacall1():
     mydb = pymysql.Connect(
-        host="scadadb.c5lia4zi06l9.us-west-2.rds.amazonaws.com",
+        host="scadadb.chxzf0urbtft.ap-northeast-3.rds.amazonaws.com",
         user="dbuser",
         password="GkGk#cyber1204",
         database="scadadb"
